@@ -1,0 +1,53 @@
+{
+  "index.qmd": {
+    "index.html": "749739b6"
+  },
+  "about.qmd": {
+    "about.html": "801df693"
+  },
+  "projects.qmd": {
+    "projects.html": "07f3b74b"
+  },
+  "timber_reources.qmd": {
+    "timber_reources.html": "da465ddb"
+  },
+  "timber_resources.qmd": {
+    "timber_resources.html": "819b3da1"
+  },
+  "resources_articles.qmd": {
+    "resources_articles.html": "862c0714"
+  },
+  "about/index.qmd": {
+    "index.html": "8e99c288"
+  },
+  "projects/index.qmd": {
+    "index.html": "0e3e9539"
+  },
+  "resources_articles/index.qmd": {
+    "index.html": "ce6fc820"
+  },
+  "resources-articles/index.qmd": {
+    "index.html": "94ac85f3"
+  },
+  "posts/the-future-we-want.qmd": {
+    "the-future-we-want.html": "33f060d2"
+  },
+  "posts/while-in-barcelona.qmd": {
+    "while-in-barcelona.html": "87b286cb"
+  },
+  "resources-articles/posts/while-in-barcelona.qmd": {
+    "while-in-barcelona.html": "ff785a27"
+  },
+  "resources-articles/posts/the-future-we-want.qmd": {
+    "the-future-we-want.html": "3b68600e"
+  },
+  "resources-articles/posts/2026-10-06-built-by-nature-barcelona/built-by-nature-barcelona.qmd": {
+    "built-by-nature-barcelona.html": "4438f3e2"
+  },
+  "articles/index.qmd": {
+    "index.html": "20c2ee25"
+  },
+  "articles/posts/2026-10-06-built-by-nature-barcelona/built-by-nature-barcelona.qmd": {
+    "built-by-nature-barcelona.html": "c7a55f87"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "resources_articles\\index.qmd": [
+      "posts/"
+    ],
+    "resources-articles\\index.qmd": [
+      "posts/"
+    ],
+    "articles\\index.qmd": [
+      "posts/"
+    ]
+  }
+}

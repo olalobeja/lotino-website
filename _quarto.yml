@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "lotino engineering"
+  favicon: assets/logos/lotino_favicon.svg
+  search: true
+  navbar:
+    logo: assets/logos/lotino_favicon.svg
+    right:
+      - text: "Home"
+        aria-label: "Lotino Engineering Home"
+        href: index.qmd
+      - text: "About"
+        aria-label: "About Lotino Engineering"
+        href: about/index.qmd
+      - text: "Projects"
+        aria-label: "Projects at Lotino Engineering"
+        href: projects/index.qmd
+      - text: "Articles"
+        aria-label: "Timber Articles"
+        href: articles/index.qmd
+  page-footer: 
+    left: "© Lotino Engineering. Built with [Quarto](https://quarto.org)"
+    center: "email: hello [at] lotino [dot] africa"
+    right: "[LinkedIn ↗](https://www.linkedin.com/company/lotino-engineering/)"
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: true
+    max-width: 50em
+    mainfont: "Atkinson Hyperlegible"
+    monofont: "Atkinson Hyperlegible Mono"
+    linestretch: 1.5
+#   backgroundcolor: 
+    fontsize: 1.2em
+    respect-user-color-scheme: true
+
+
+
+

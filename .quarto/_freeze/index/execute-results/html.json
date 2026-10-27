@@ -1,0 +1,12 @@
+{
+  "hash": "b6051a53a94d0034defcac765ddacbc0",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"lotino_website\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n> and all the people reoiced greatly. \n\n# Valladolid\n\nIn this city, are many many many good people like my wife. \n\n## la Calle Pizarro\n\nAt the *10th* location, you may be lucky to find the coolest folks on the planet. \n\n## A note around code\n\nWhen we come to code, we primarily role out with `R` and `Python`. \n\nAnd how about if we inserted some code content, let us go for it——\n\n::: {#fb051254 .cell execution_count=1}\n``` {.python .cell-code}\ngulu = \"333 km from Kampala\"\nvalladolid = \"200 km from Madrid\"\nmombasa = \"500 km from Nairobi\"\n```\n:::\n\n\nThe above is `Python` code. \n\nAnd R code would look like this instead——\n\n```R\ngulu <- \"333 km from Kampala\"\nvalladolid <- \"200 km from Madrid\"\nmombasa <- \"500 km from Nairobi\"\n```\n\nAnd you may notice, the two have different syntax. Yeah! \n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

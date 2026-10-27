@@ -1,0 +1,13 @@
+---
+# title: "Home"
+# subtitle: "Timber design and build solutions across East Africa."
+title-block-style: none
+page-layout: full
+toc: false
+---
+
+# In love — with timber
+
+![](_assets/images/lotino_01.jpg){fig-alt="Lotino Engineering getting ready for take off"}
+ 
+We provide timber design and build solutions across East Africa. We are driven to see sustainable, high-performance timber design and construction scale across the region.
