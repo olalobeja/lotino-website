@@ -6,6 +6,7 @@ date: "06 Oct 2026"
 date-modified: "22 Oct 2026"
 date-format: "ddd DD MMM, YYYY"
 author: "Roderick Olal Obeja"
+page-layout: article
 ---
 
 The Built by Nature Summit 2026 was held in Barcelona—the 2026 World Capital of Architecture—with underlying pursuits on how to deliver housing at scale while staying within planetary boundaries. How can we continue *Housing the World, without Costing the Earth*?

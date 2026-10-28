@@ -8,6 +8,6 @@ toc: false
 
 # In love — with timber
 
-![](_assets/images/lotino_01.jpg){fig-alt="Lotino Engineering getting ready for take off"}
- 
+![](_assets/images/lotino_01.jpg){fig-alt="Lotino Engineering getting ready for take off" width="60%" fig-align="center"}
+
 We provide timber design and build solutions across East Africa. We are driven to see sustainable, high-performance timber design and construction scale across the region.
