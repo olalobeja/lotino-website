@@ -318,11 +318,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../assets/logos/lotino_favicon.svg" alt="" class="navbar-logo light-content">
-    <img src="../assets/logos/lotino_favicon.svg" alt="" class="navbar-logo dark-content">
-    </a>
-    <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">lotino engineering</span>
+    <img src="../assets/logos/lotino_logo_white.svg" alt="" class="navbar-logo light-content">
+    <img src="../assets/logos/lotino_logo_white.svg" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -436,7 +433,7 @@ window.Quarto = {
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-date-sort="1791237600000" data-listing-file-modified-sort="1793140173573" data-listing-date-modified-sort="1792620000000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1278" data-listing-title-sort="Housing the world, without costing the earth" data-listing-filename-sort="built-by-nature-barcelona.qmd">
+<tr data-index="0" data-listing-date-sort="1791237600000" data-listing-file-modified-sort="1793140586598" data-listing-date-modified-sort="1792620000000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1278" data-listing-title-sort="Housing the world, without costing the earth" data-listing-filename-sort="built-by-nature-barcelona.qmd">
 <td>
 <span class="listing-date">Tue 06 Oct, 2026</span>
 </td>
@@ -539,7 +536,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/olalobeja\.github\.io\/lotino\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

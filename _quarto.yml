@@ -6,7 +6,8 @@ website:
   favicon: assets/logos/lotino_favicon.svg
   search: true
   navbar:
-    logo: assets/logos/lotino_favicon.svg
+    title: false
+    logo: assets/logos/lotino_logo_white.svg
     right:
       - text: "Home"
         aria-label: "Lotino Engineering Home"
