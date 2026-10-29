@@ -11,16 +11,16 @@ website:
     right:
       - text: "Home"
         aria-label: "Lotino Engineering Home"
-        href: index.qmd
+        href: index.md
       - text: "About"
         aria-label: "About Lotino Engineering"
-        href: about/index.qmd
+        href: about/index.md
       - text: "Projects"
         aria-label: "Projects at Lotino Engineering"
-        href: projects/index.qmd
+        href: projects/index.md
       - text: "Articles"
         aria-label: "Timber Articles"
-        href: articles/index.qmd
+        href: articles/index.md
   page-footer: 
     left: "© Lotino Engineering. Built with [Quarto](https://quarto.org)"
     center: "email: hello [at] lotino [dot] africa"
